@@ -99,10 +99,18 @@ const ContactPage = () => {
 
     try {
       if (form.current) {
-        await emailjs.sendForm(
+        const { firstName, lastName, email, phone, subject, message } = formData
+        await emailjs.send(
           import.meta.env.VITE_EMAILJS_SERVICE_ID,
           import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
-          form.current,
+          {
+            name: `${firstName} ${lastName}`,
+            email,
+            phone,
+            time: new Date().toDateString(),
+            subject,
+            message
+          },
           import.meta.env.VITE_EMAILJS_PUBLIC_KEY
         );
 
@@ -138,8 +146,6 @@ const ContactPage = () => {
         index === 2 ? <MapPin className="w-6 h-6" /> :
           <Clock className="w-6 h-6" />
   }));
-
-  const practiceAreas = content.contactPage.formSection.practiceAreas;
 
   return (
     <div className="min-h-screen bg-white">
