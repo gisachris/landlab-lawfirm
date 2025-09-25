@@ -9,7 +9,7 @@ const Header = () => {
   const location = useLocation();
 
   // Hide top bar on contact page when scrolled
-  const showTopBar = !(location.pathname === '/contact' || location.pathname === '/');
+  const showTopBar = !(location.pathname === '/');
 
   useEffect(() => {
     const handleScroll = () => {
@@ -33,12 +33,11 @@ const Header = () => {
   };
 
   return (
-    <header 
-      className={`fixed w-full z-50 transition-all duration-300 ${
-        isScrolled 
-          ? 'bg-white/95 backdrop-blur-sm shadow-lg' 
-          : 'bg-transparent'
-      }`}
+    <header
+      className={`fixed w-full z-50 transition-all duration-300 ${isScrolled
+        ? 'bg-white/95 backdrop-blur-sm shadow-lg'
+        : 'bg-transparent'
+        }`}
     >
       {/* Top Bar */}
       {showTopBar && (
@@ -77,16 +76,15 @@ const Header = () => {
               <Link
                 key={item.name}
                 to={item.href}
-                className={`font-medium click:border-0 transition-colors hover:text-primary ${
-                  isActive(item.href) 
-                    ? 'text-primary' 
-                    : isScrolled ? 'text-text' : 'text-white'
-                }`}
+                className={`font-medium click:border-0 transition-colors hover:text-primary ${isActive(item.href)
+                  ? 'text-primary'
+                  : isScrolled ? 'text-text' : 'text-white'
+                  }`}
               >
                 {item.name}
               </Link>
             ))}
-            <Link 
+            <Link
               to="/contact"
               className="bg-primary text-white px-6 py-2 rounded-lg font-medium hover:bg-primary/90 transition-colors focus-ring"
             >
@@ -97,9 +95,8 @@ const Header = () => {
           {/* Mobile Menu Button */}
           <button
             onClick={() => setIsMenuOpen(!isMenuOpen)}
-            className={`lg:hidden p-2 rounded-lg transition-colors focus-ring ${
-              isScrolled ? 'text-text hover:bg-gray-100' : 'text-white hover:bg-white/10'
-            }`}
+            className={`lg:hidden p-2 rounded-lg transition-colors focus-ring ${isScrolled ? 'text-text hover:bg-gray-100' : 'text-white hover:bg-white/10'
+              }`}
           >
             {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
           </button>
@@ -113,11 +110,10 @@ const Header = () => {
                 <Link
                   key={item.name}
                   to={item.href}
-                  className={`block font-medium transition-colors focus-ring ${
-                    isActive(item.href) 
-                      ? 'text-primary' 
-                      : 'text-text hover:text-primary'
-                  }`}
+                  className={`block font-medium transition-colors focus-ring ${isActive(item.href)
+                    ? 'text-primary'
+                    : 'text-text hover:text-primary'
+                    }`}
                   onClick={() => setIsMenuOpen(false)}
                 >
                   {item.name}
