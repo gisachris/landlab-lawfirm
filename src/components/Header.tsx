@@ -64,12 +64,18 @@ const Header = () => {
       <nav className="px-4 py-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2">
-            <span className={`text-xl font-bold ${isScrolled ? 'text-secondary' : 'text-white'} transition-colors flex flex-row max-w-[150px] max-h-[75px] no-underline`}>
-              <p>{content.global.companyName}</p>
-            </span>
-          </Link>
-
+          {isScrolled ?
+            (<Link to="/" className="flex items-center justify-center gap-2">
+              <span className={`text-xl font-bold ${isScrolled ? 'text-secondary' : 'text-white'} transition-colors flex flex-row max-w-[150px] max-h-[55px] no-underline`}>
+                <img src="/company_logo.png" alt="LawFirm Logo" className='object-cover object-right min-w-[150px]' />
+              </span>
+            </Link>)
+            :
+            (<Link to="/" className="flex items-center justify-center gap-2">
+              <span className={`text-xl font-bold ${isScrolled ? 'text-secondary' : 'text-white'} transition-colors flex flex-row max-w-[150px] max-h-[55px] no-underline`}>
+                <img src="/company_logo_light_cropped.png" alt="LawFirm Logo" className='object-cover object-right min-w-[150px]' />
+              </span>
+            </Link>)}
           {/* Desktop Navigation */}
           <div className="hidden lg:flex items-center gap-8">
             {navigation.map((item) => (
