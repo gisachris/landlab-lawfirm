@@ -35,7 +35,7 @@
     "practiceAreasSection": {
       "title": "Our Practice Areas",
       "description": "No matter what your legal needs may be, our team of lawyers has the expertise necessary to provide you with the highest level of service.",
-      "ctaConsultation": "FREE CONSULTATION",
+      "ctaConsultation": "SCHEDULE CONSULTATION",
       "ctaAllAreas": "ALL PRACTICE AREAS",
       "areas": [
         {
@@ -144,8 +144,8 @@
     },
     "callToActionSection": {
       "title": "Ready to Discuss Your Case?",
-      "description": "Don't wait to get the legal help you need. Contact our experienced team today for a free consultation and let us help you navigate your legal challenges with confidence and expertise.",
-      "ctaButtonText": "Get Free Consultation",
+      "description": "Don't wait to get the legal help you need. Contact our experienced team today to get a consultation and let us help you navigate your legal challenges with confidence and expertise.",
+      "ctaButtonText": "Schedule Consultation",
       "note": "Available 24/7 for urgent legal matters"
     }
   },
@@ -226,7 +226,7 @@
     "heroSection": {
       "title": "Our Practice Areas",
       "description": "Comprehensive legal services across multiple practice areas. Our experienced attorneys are dedicated to providing exceptional representation for all your legal needs.",
-      "ctaButtonText": "Schedule Free Consultation"
+      "ctaButtonText": "Schedule A Consultation"
     },
     "areas": [
       {
@@ -310,7 +310,7 @@
     ],
     "ctaSection": {
       "title": "Ready to Get Started?",
-      "description": "Contact us today for a free consultation. Our experienced attorneys are ready to help you navigate your legal challenges and achieve the best possible outcome.",
+      "description": "Contact us today for a consultation. Our experienced attorneys are ready to help you navigate your legal challenges and achieve the best possible outcome.",
       "ctaButtonText": "Schedule Your Consultation"
     }
   },
@@ -426,7 +426,7 @@
   "contactPage": {
     "heroSection": {
       "title": "Contact Us",
-      "description": "Ready to discuss your legal needs? Get in touch with our experienced team for a free consultation and personalized legal guidance."
+      "description": "Ready to discuss your legal needs? Get in touch with our experienced team for a consultation and personalized legal guidance."
     },
     "contactInfoCards": [
       {
