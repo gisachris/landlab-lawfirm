@@ -2,6 +2,11 @@ import type { Config } from 'tailwindcss';
 
 const config: Config = {
   darkMode: ['class'],
+  safelist: [
+    'bg-hero-image-1',
+    'bg-hero-image-2',
+    'bg-hero-image-3'
+  ],
   content: [
     './index.html',
     './src/**/*.{js,ts,jsx,tsx}',
