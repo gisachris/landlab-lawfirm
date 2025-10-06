@@ -426,9 +426,6 @@ const ContactPage = () => {
                 >
                   {content.global.contactPhone}
                 </a>
-                <p className="text-red-600 text-sm mt-2">
-                  {content.contactPage.officeVisitSection.emergencyContactNote}
-                </p>
               </div>
             </div>
           </div>
