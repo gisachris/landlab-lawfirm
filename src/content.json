@@ -83,10 +83,10 @@
           "bio": "Michael is renowned for his aggressive defense strategies and has achieved numerous acquittals in high-profile criminal cases."
         },
         {
-          "name": "Emily Rodriguez",
-          "position": "Partner",
-          "image": "https://images.pexels.com/photos/5668774/pexels-photo-5668774.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-          "bio": "Emily brings compassion and expertise to sensitive family matters, combining legal acumen with emotional intelligence."
+          "name": "Gisa Chris Munyangaju",
+          "position": "IT Manager",
+          "image": "/team/gisa_profile.png",
+          "bio": "Gisa manages all technology infrastructure and digital solutions for LandLab Attorneys. He designed and developed the firm's website and ensures seamless operation of all hardware and software systems across the organization."
         }
       ]
     },
@@ -353,19 +353,19 @@
         ]
       },
       {
-        "name": "Emily Rodriguez",
-        "position": "Partner",
-        "specialization": "Family Law & Estate Planning",
-        "experience": "12+ Years Experience",
-        "education": "Yale Law School, JD",
-        "email": "emily.rodriguez@landlab-attorneys.com",
-        "phone": "(+250) 788-306-703",
-        "image": "https://images.pexels.com/photos/5668774/pexels-photo-5668774.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-        "bio": "Emily brings compassion and expertise to sensitive family matters. Her approach combines legal acumen with emotional intelligence to achieve favorable outcomes for families in transition.",
+        "name": "Gisa Chris Munyangaju",
+        "position": "IT Manager",
+        "specialization": "Technology Infrastructure & Web Development",
+        "experience": "3+ Years Experience",
+        "education": "Adventist University Of Central Africa",
+        "email": "gisachrismunyangaju@gmail.com",
+        "phone": "(+250) 784-563-836",
+        "image": "/team/gisa_profile.png",
+        "bio": "Gisa manages all technology infrastructure and digital solutions for LandLab Attorneys. He designed and developed the firm's website and ensures seamless operation of all hardware and software systems across the organization.",
         "achievements": [
-          "Family Law Attorney of the Year 2021",
-          "Certified Family Law Specialist",
-          "Mediator certification - family disputes"
+          "Designed and developed LandLab Attorneys website",
+          "Maintains 100% uptime for firm's IT infrastructure",
+          "Streamlined digital workflows and case management systems"
         ]
       },
       {
