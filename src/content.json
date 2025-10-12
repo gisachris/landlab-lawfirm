@@ -3,7 +3,7 @@
     "companyName": "LandLab Attorneys",
     "contactPhone": "(+250) 788-306-700",
     "contactEmail": "info@landlab-attorneys.com",
-    "address": "123 Legal District, Kigali, Rwanda, East Africa",
+    "address": "Kigali, Rwanda, East Africa",
     "officeHours": {
       "monFri": "8:00 AM - 6:00 PM",
       "sat": "9:00 AM - 2:00 PM",
@@ -25,41 +25,41 @@
       "topLabel": "Expert Legal Solutions",
       "title": "LandLab Attorneys",
       "carouselTexts": [
-        "We are a dedicated team of legal professionals providing expert services for all your legal needs. We are committed to working hard for you and ensuring successful outcomes. Our comprehensive approach ensures that every aspect of your case receives the attention it deserves.",
-        "Our experienced attorneys specialize in personal injury, criminal defense, family law, and corporate litigation with proven results. We have successfully represented thousands of clients across various legal matters, securing favorable outcomes and maximum compensation for our clients.",
-        "With over 25 years of combined experience, we fight tirelessly to protect your rights and secure the compensation you deserve. Our track record speaks for itself with millions recovered in settlements and verdicts for our clients throughout the years.",
-        "Trust our award-winning legal team to navigate complex legal challenges and deliver the justice you seek. We combine cutting-edge legal strategies with personalized attention to ensure your case receives the best possible representation and outcome."
+        "We provide comprehensive legal, corporate, and regulatory services designed to help clients protect their interests and achieve their goals. Our approach is practical, attentive, and focused on lasting solutions that stand the test of time.",
+        "Specializing in land transactions, corporate law, and regulatory compliance, we guide businesses and individuals through Rwanda's legal landscape with expertise gained from years of experience in land titles and property law.",
+        "From company incorporation to complex land development projects, our team combines deep knowledge of Rwandan law with strategic insight to deliver practical solutions that balance compliance, governance, and business efficiency.",
+        "Led by our founder, a former Registrar of Land Titles in Rwanda, we bring unparalleled expertise in land law, corporate transactions, and regulatory compliance to help you navigate today's dynamic legal environment."
       ],
       "ctaButtonText": "Schedule Consultation"
     },
     "practiceAreasSection": {
       "title": "Our Practice Areas",
-      "description": "No matter what your legal needs may be, our team of lawyers has the expertise necessary to provide you with the highest level of service.",
+      "description": "We provide specialized legal services across key areas of Rwandan law, combining deep expertise with practical solutions for businesses and individuals.",
       "ctaConsultation": "SCHEDULE CONSULTATION",
       "ctaAllAreas": "ALL PRACTICE AREAS",
       "areas": [
         {
-          "icon": "Briefcase",
-          "title": "Business Law",
-          "description": "We provide comprehensive services, including contract drafting and negotiation, intellectual property protection, corporate governance, and strategic business planning to help your enterprise thrive.",
+          "icon": "Building",
+          "title": "Land Transactions & Property Law",
+          "description": "Complete legal support for land acquisition, development, and transactions including title verification, registration, subdivision, and investment project compliance with our former Land Titles Registrar expertise.",
           "position": "left"
         },
         {
-          "icon": "Users",
-          "title": "Family Law",
-          "description": "Our practice provides compassionate and expert guidance in areas such as divorce proceedings, child custody arrangements, adoption services, and domestic relations matters with personalized attention.",
+          "icon": "Briefcase",
+          "title": "Corporate & Commercial Law",
+          "description": "Business formation, mergers and acquisitions, joint ventures, commercial transactions, and ongoing corporate compliance to help your business operate confidently within Rwanda's regulatory framework.",
           "position": "right"
         },
         {
-          "icon": "Shield",
-          "title": "Criminal Defense",
-          "description": "You need an experienced and knowledgeable lawyer to protect your rights, defend your case, and navigate the complex criminal justice system with proven strategies and dedicated representation.",
+          "icon": "FileText",
+          "title": "Contract Management",
+          "description": "Expert contract drafting, review, and lifecycle management across all sectors including construction, employment, investment, and services with focus on clear, enforceable agreements.",
           "position": "left"
         },
         {
-          "icon": "Building",
-          "title": "Real Estate Law",
-          "description": "Provides expert guidance in matters such as property purchases and sales, leasing agreements, title disputes, zoning issues, and comprehensive real estate transaction management services.",
+          "icon": "Shield",
+          "title": "Regulatory Compliance",
+          "description": "Navigate Rwanda's regulatory environment with confidence through our compliance advisory, data protection services, licensing support, and policy development tailored to your organization.",
           "position": "right"
         }
       ],
@@ -67,20 +67,20 @@
     },
     "teamSection": {
       "title": "Who We Are: Meet The Team",
-      "description": "At LandLab Attorneys, we pride ourselves on having a team of experienced and knowledgeable lawyers dedicated to providing exceptional legal representation.",
+      "description": "Our team combines deep expertise in Rwandan law with practical experience in land transactions, corporate compliance, and regulatory matters to deliver exceptional legal services.",
       "ctaButtonText": "SEE ALL LAWYERS",
       "featuredMembers": [
         {
-          "name": "Sarah Johnson",
-          "position": "Managing Partner",
-          "image": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-          "bio": "Sarah leads our corporate law division with extensive experience in mergers, acquisitions, and complex business litigation."
+          "name": "Munyangaju Damascene",
+          "position": "Senior Managing Partner & Founder",
+          "image": "https://images.pexels.com/photos/5668859/pexels-photo-5668859.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+          "bio": "Founder and Senior Managing Partner with extensive experience as former Registrar of Land Titles in Rwanda. Specializes in land transactions, property law, and complex legal matters."
         },
         {
-          "name": "Michael Chen",
-          "position": "Senior Partner",
-          "image": "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-          "bio": "Michael is renowned for his aggressive defense strategies and has achieved numerous acquittals in high-profile criminal cases."
+          "name": "Wibabara Joy",
+          "position": "Managing Partner",
+          "image": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+          "bio": "Managing Partner with expertise in corporate law, commercial transactions, and regulatory compliance, ensuring comprehensive legal support for our clients."
         },
         {
           "name": "Gisa Chris Munyangaju",
@@ -92,120 +92,120 @@
     },
     "testimonialsSection": {
       "title": "What Our Clients Say",
-      "description": "Don't just take our word for it. Here's what our satisfied clients have to say about their experience working with LandLab Attorneys.",
+      "description": "Our clients trust us with their most important legal matters. Here's what they say about working with LandLab Attorneys.",
       "testimonials": [
         {
           "id": 1,
-          "name": "James Mitchell",
-          "position": "CEO",
-          "company": "TechStart Inc.",
-          "content": "LandLab Attorneys provided exceptional legal guidance during our company's merger. Their expertise in corporate law and attention to detail made the entire process smooth and successful. I highly recommend their services.",
+          "name": "Sarah Uwimana",
+          "position": "Property Developer",
+          "company": "Kigali Developments",
+          "content": "LandLab Attorneys guided us through a complex land acquisition and development project. Their expertise in land law and regulatory compliance was invaluable. The former Land Registrar's experience really showed.",
           "rating": 5
         },
         {
           "id": 2,
-          "name": "Maria Santos",
-          "position": "Small Business Owner",
-          "company": "Santos Consulting",
-          "content": "When I needed help with a complex contract dispute, the team at LandLab Attorneys was there every step of the way. They explained everything clearly and fought hard for my interests. Outstanding service!",
+          "name": "Jean Baptiste Nzeyimana",
+          "position": "CEO",
+          "company": "Rwanda Tech Solutions",
+          "content": "From company incorporation to ongoing compliance, LandLab has been our trusted legal partner. Their practical approach and deep understanding of Rwandan business law has been essential to our growth.",
           "rating": 5
         },
         {
           "id": 3,
-          "name": "Robert Thompson",
-          "position": "Real Estate Developer",
-          "company": "Thompson Properties",
-          "content": "I've worked with many law firms over the years, but LandLab Attorneys stands out for their professionalism and results. They handled our real estate transactions with precision and expertise.",
+          "name": "Grace Mukamana",
+          "position": "NGO Director",
+          "company": "Community Development Initiative",
+          "content": "The team at LandLab helped us navigate complex regulatory requirements and data protection compliance. Their training programs strengthened our entire organization's legal awareness.",
           "rating": 5
         },
         {
           "id": 4,
-          "name": "Lisa Chen",
-          "position": "Marketing Director",
-          "company": "Global Marketing Solutions",
-          "content": "The family law team at LandLab Attorneys helped me through a difficult divorce with compassion and skill. They protected my interests while keeping the process as amicable as possible. Truly grateful for their support.",
+          "name": "Patrick Habimana",
+          "position": "Investment Manager",
+          "company": "East Africa Investments",
+          "content": "LandLab's contract management and due diligence services have been exceptional. They helped us structure deals that protect our interests while maintaining strong business relationships.",
           "rating": 5
         },
         {
           "id": 5,
-          "name": "David Rodriguez",
-          "position": "Entrepreneur",
-          "company": "Rodriguez Ventures",
-          "content": "From business formation to intellectual property protection, LandLab Attorneys has been our trusted legal partner. Their strategic advice has been invaluable to our company's growth and success.",
+          "name": "Marie Claire Ingabire",
+          "position": "Business Owner",
+          "company": "Ingabire Enterprises",
+          "content": "Their notary services and legal opinions are always thorough and reliable. LandLab Attorneys has become an integral part of our business operations and strategic planning.",
           "rating": 5
         }
       ],
       "stats": [
-        {"number": "500+", "label": "Happy Clients"},
-        {"number": "98%", "label": "Success Rate"},
-        {"number": "25+", "label": "Years Experience"},
+        {"number": "15+", "label": "Practice Areas"},
+        {"number": "100%", "label": "Client Satisfaction"},
+        {"number": "10+", "label": "Years Experience"},
         {"number": "24/7", "label": "Support Available"}
       ]
     },
     "callToActionSection": {
-      "title": "Ready to Discuss Your Case?",
-      "description": "Don't wait to get the legal help you need. Contact our experienced team today to get a consultation and let us help you navigate your legal challenges with confidence and expertise.",
+      "title": "Ready to Discuss Your Legal Needs?",
+      "description": "Whether you need land transaction support, corporate compliance, or regulatory guidance, our experienced team is ready to provide practical solutions tailored to your specific requirements.",
       "ctaButtonText": "Schedule Consultation",
-      "note": "Available 24/7 for urgent legal matters"
+      "note": "Expert legal guidance when you need it most"
     }
   },
   "aboutPage": {
     "heroSection": {
       "title": "About Us",
-      "description": "Dedicated to providing exceptional legal services with integrity, professionalism, and unwavering commitment to our clients' success."
+      "description": "Founded by a former Registrar of Land Titles, LandLab Attorneys combines deep expertise in Rwandan law with practical solutions for modern legal challenges."
     },
     "statsSection": {
       "stats": [
-        {"number": "25+", "label": "Years Experience"},
-        {"number": "1000+", "label": "Cases Won"},
-        {"number": "50+", "label": "Expert Attorneys"},
-        {"number": "98%", "label": "Success Rate"}
+        {"number": "15+", "label": "Practice Areas"},
+        {"number": "100+", "label": "Successful Projects"},
+        {"number": "5+", "label": "Expert Attorneys"},
+        {"number": "10+", "label": "Years Experience"}
       ]
     },
     "ourStorySection": {
       "title": "Our Story",
       "paragraphs": [
-        "Founded over two decades ago, LandLab Attorneys has grown from a small practice into one of the region's most respected law firms. Our journey began with a simple mission: to provide exceptional legal representation while maintaining the highest standards of integrity and professionalism.",
-        "Throughout our history, we have successfully represented thousands of clients across various legal matters, from complex corporate transactions to sensitive family disputes. Our commitment to excellence has earned us recognition from peers and clients alike.",
-        "Today, we continue to evolve and adapt to meet the changing needs of our clients while staying true to the core values that have guided us from the beginning. We believe that every client deserves personalized attention and aggressive representation."
+        "LandLab Attorneys was founded by Munyangaju Damascene, a distinguished advocate and former Registrar of Land Titles in Rwanda. With his extensive background in land transactions and property law, Damascene established the firm to provide specialized legal services that bridge the gap between complex legal requirements and practical business needs.",
+        "Our firm has grown to become a trusted partner for businesses, NGOs, and individuals navigating Rwanda's legal landscape. We specialize in areas where precision and expertise matter most: land transactions, corporate compliance, regulatory advisory, and contract management.",
+        "Today, LandLab Attorneys continues to evolve, combining traditional legal excellence with modern approaches to serve our clients' diverse needs. Our commitment remains unchanged: to provide practical, attentive, and lasting legal solutions that help our clients achieve their goals with confidence."
       ],
       "image": "https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
     },
     "ourValuesSection": {
       "title": "Our Core Values",
-      "description": "These fundamental principles guide every decision we make and every case we handle.",
+      "description": "These fundamental principles guide every decision we make and every service we provide.",
       "values": [
         {
           "icon": "Scale",
-          "title": "Integrity",
-          "description": "We uphold the highest ethical standards in all our legal practices and client relationships."
+          "title": "Practical Solutions",
+          "description": "We focus on delivering practical, actionable legal solutions that balance compliance with business efficiency."
         },
         {
           "icon": "Target",
-          "title": "Excellence",
-          "description": "We strive for excellence in every case, delivering superior legal representation and results."
+          "title": "Expertise",
+          "description": "Deep knowledge of Rwandan law combined with specialized experience in land transactions and regulatory matters."
         },
         {
           "icon": "Users",
-          "title": "Client-Focused",
-          "description": "Our clients are at the center of everything we do. We prioritize their needs and goals."
+          "title": "Client Partnership",
+          "description": "We work as trusted partners, providing attentive service and keeping clients informed throughout every process."
         },
         {
           "icon": "Award",
-          "title": "Experience",
-          "description": "Decades of combined experience across multiple practice areas and legal specializations."
+          "title": "Lasting Impact",
+          "description": "Our solutions are designed for long-term success, helping clients operate confidently within Rwanda's legal framework."
         }
       ]
     },
     "missionStatementSection": {
       "title": "Our Mission",
-      "statement": "To provide our clients with exceptional legal representation, combining extensive experience with innovative strategies to achieve the best possible outcomes. We are committed to upholding justice, protecting rights, and serving our community with integrity and dedication."
+      "statement": "To provide legal, corporate, and regulatory services that help clients protect their interests and achieve their goals. Our approach is practical, attentive, and focused on lasting solutions that enable confident operation within Rwanda's dynamic legal environment."
     },
     "founderSection": {
       "title": "Meet Our Founder",
       "image": "https://images.pexels.com/photos/5668859/pexels-photo-5668859.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
-      "name": "Damascene Munyangaju",
-      "bio": "Damascene Munyangaju, the visionary behind LandLab Attorneys, established the firm with a profound commitment to justice and client advocacy. With years of dedicated experience in the legal field, Damascene envisioned a practice built on integrity, excellence, and a deep understanding of each client's unique needs. His leadership has fostered a culture where legal expertise meets compassionate service, ensuring that LandLab Attorneys remains a beacon of trust and reliability in the legal community."
+      "name": "Munyangaju Damascene",
+      "bio": "Munyangaju Damascene is the founder and Senior Managing Partner of LandLab Attorneys. As a distinguished advocate and former Registrar of Land Titles in Rwanda, Damascene brings unparalleled expertise in land transactions and property law. His vision was to create a law firm that combines deep legal knowledge with practical solutions, helping clients navigate Rwanda's legal landscape with confidence and achieve lasting success."
     },
     "whyChooseUsSection": {
       "title": "Why Choose LandLab Attorneys?",
@@ -225,86 +225,203 @@
   "practiceAreasPage": {
     "heroSection": {
       "title": "Our Practice Areas",
-      "description": "Comprehensive legal services across multiple practice areas. Our experienced attorneys are dedicated to providing exceptional representation for all your legal needs.",
+      "description": "We provide specialized legal, corporate, and regulatory services designed to help clients protect their interests and achieve their goals across 15 key practice areas.",
       "ctaButtonText": "Schedule A Consultation"
     },
     "areas": [
       {
-        "icon": "Briefcase",
-        "title": "Business Law",
-        "description": "We provide comprehensive legal services to businesses of all sizes, from startups to established corporations. Our expertise covers all aspects of business operations and growth.",
-        "services": [
-          "Contract drafting and negotiation",
-          "Intellectual property protection",
-          "Corporate governance and compliance",
-          "Mergers and acquisitions",
-          "Employment law matters",
-          "Business formation and structuring"
-        ]
-      },
-      {
-        "icon": "Users",
-        "title": "Family Law",
-        "description": "Our family law practice provides compassionate and expert guidance during life's most challenging moments. We understand the emotional complexity of family matters.",
-        "services": [
-          "Divorce and separation proceedings",
-          "Child custody and support",
-          "Adoption services",
-          "Prenuptial and postnuptial agreements",
-          "Domestic violence protection",
-          "Property division and alimony"
-        ]
-      },
-      {
-        "icon": "Shield",
-        "title": "Criminal Defense",
-        "description": "When facing criminal charges, you need experienced legal representation. Our criminal defense team has successfully defended clients against a wide range of charges.",
-        "services": [
-          "DUI/DWI defense",
-          "Drug crime defense",
-          "White collar crime",
-          "Assault and battery cases",
-          "Theft and property crimes",
-          "Appeals and post-conviction relief"
-        ]
-      },
-      {
         "icon": "Building",
-        "title": "Real Estate Law",
-        "description": "Our real estate practice provides comprehensive legal services for all types of property transactions and disputes. We protect your interests in every real estate matter.",
+        "title": "Land Transactions & Property Law",
+        "description": "Complete legal support for all aspects of property and land development, led by our founder's expertise as former Registrar of Land Titles.",
         "services": [
-          "Residential and commercial purchases",
-          "Property sales and transfers",
-          "Lease agreements and disputes",
-          "Title examination and insurance",
-          "Zoning and land use issues",
-          "Real estate litigation"
+          "Title verification and due diligence",
+          "Transfer and registration of ownership",
+          "Subdivision, consolidation, and land regularization",
+          "Zoning, planning, and development compliance",
+          "Investment project business plans",
+          "Investment certificate applications"
+        ]
+      },
+      {
+        "icon": "Briefcase",
+        "title": "Corporate, Commercial & Transactional Law",
+        "description": "Comprehensive business support from establishment to expansion, ensuring every business decision stands on firm legal ground.",
+        "services": [
+          "Company registration and incorporation",
+          "Shareholder and partnership agreements",
+          "Mergers and acquisitions",
+          "Joint ventures",
+          "Commercial transactions",
+          "Corporate governance"
         ]
       },
       {
         "icon": "FileText",
-        "title": "Estate Planning",
-        "description": "Protect your family's future with comprehensive estate planning services. We help you create a plan that reflects your wishes and minimizes tax implications.",
+        "title": "Contract Drafting, Review & Management",
+        "description": "Expert contract services across all sectors with lifecycle management to create clear, balanced, and enforceable agreements.",
         "services": [
-          "Wills and testament drafting",
-          "Trust creation and administration",
-          "Probate and estate administration",
-          "Power of attorney documents",
-          "Healthcare directives",
-          "Tax planning strategies"
+          "Contract drafting and review",
+          "Performance monitoring",
+          "Renewals and compliance",
+          "Employment contracts",
+          "Construction agreements",
+          "Investment contracts"
+        ]
+      },
+      {
+        "icon": "Shield",
+        "title": "Regulatory & Compliance Advisory",
+        "description": "Navigate Rwanda's legal and regulatory environment with confidence through our comprehensive compliance services.",
+        "services": [
+          "Corporate compliance",
+          "Licensing and permits",
+          "Labour and tax requirements",
+          "Policy development",
+          "Compliance manuals",
+          "Internal procedures"
         ]
       },
       {
         "icon": "Scale",
-        "title": "Personal Injury",
-        "description": "If you've been injured due to someone else's negligence, our personal injury team will fight for the compensation you deserve. We work on a contingency fee basis.",
+        "title": "Litigation & Court Representation",
+        "description": "Professional representation in civil, commercial, administrative, and land disputes with emphasis on preparation and results.",
         "services": [
-          "Motor vehicle accidents",
-          "Slip and fall cases",
-          "Medical malpractice",
-          "Product liability claims",
-          "Workplace injuries",
-          "Wrongful death cases"
+          "Civil litigation",
+          "Commercial disputes",
+          "Administrative matters",
+          "Land disputes",
+          "Contract disputes",
+          "Court representation"
+        ]
+      },
+      {
+        "icon": "Award",
+        "title": "Notary Services",
+        "description": "Complete notarial services compliant with Rwandan law and accepted by all public institutions.",
+        "services": [
+          "Authentication of deeds and contracts",
+          "Certification of copies",
+          "Verification of signatures",
+          "Powers of attorney notarization",
+          "Will notarization",
+          "Document authentication"
+        ]
+      },
+      {
+        "icon": "Users",
+        "title": "Data Protection & Privacy",
+        "description": "Expert guidance on Rwanda's Data Protection and Privacy Law and international data standards compliance.",
+        "services": [
+          "Data protection controller registration",
+          "Data protection processor registration",
+          "Cross-border data transfer",
+          "Privacy audits",
+          "Policy and notice drafting",
+          "Staff training programs"
+        ]
+      },
+      {
+        "icon": "Target",
+        "title": "Company Secretarial Services",
+        "description": "Professional company secretary services ensuring governance and regulatory obligations are met for businesses and NGOs.",
+        "services": [
+          "Statutory records maintenance",
+          "Board and shareholder meetings",
+          "Filing returns",
+          "Director advisory",
+          "Governance compliance",
+          "Corporate administration"
+        ]
+      },
+      {
+        "icon": "FileText",
+        "title": "Legal Opinions & Advisory",
+        "description": "Clear, accurate, and practical written legal opinions and strategic advice on complex legal questions.",
+        "services": [
+          "Legal opinion letters",
+          "Strategic legal advice",
+          "Contract interpretation",
+          "Compliance matters",
+          "Risk assessment",
+          "Legal research"
+        ]
+      },
+      {
+        "icon": "Building",
+        "title": "Company Incorporation & Entity Registration",
+        "description": "Complete assistance in registering companies, branches, and non-profit organizations with full compliance from day one.",
+        "services": [
+          "Company incorporation",
+          "Branch registration",
+          "NGO registration",
+          "Incorporation documents",
+          "Regulatory approvals",
+          "Compliance setup"
+        ]
+      },
+      {
+        "icon": "Scale",
+        "title": "Real Estate & Land Dispute Resolution",
+        "description": "Efficient resolution of property and land-related disputes while protecting client interests and preserving relationships.",
+        "services": [
+          "Ownership disputes",
+          "Tenancy matters",
+          "Inheritance disputes",
+          "Boundary disputes",
+          "Compensation claims",
+          "Mediation services"
+        ]
+      },
+      {
+        "icon": "Users",
+        "title": "Employment & Labour Law",
+        "description": "Comprehensive employment law services for both employers and employees ensuring fair and lawful workplace practices.",
+        "services": [
+          "Employment contracts",
+          "Workplace policies",
+          "Disciplinary procedures",
+          "Termination processes",
+          "Labour dispute representation",
+          "HR compliance"
+        ]
+      },
+      {
+        "icon": "Award",
+        "title": "Intellectual Property & Brand Protection",
+        "description": "Secure and enforce intellectual property rights to protect the value of creative and commercial assets.",
+        "services": [
+          "Trademark registration",
+          "Copyright registration",
+          "IP licensing",
+          "Infringement actions",
+          "Brand protection",
+          "IP portfolio management"
+        ]
+      },
+      {
+        "icon": "Users",
+        "title": "Family Law, Estates & Succession",
+        "description": "Compassionate and accurate family law services combining discretion with legal certainty for estate planning and succession.",
+        "services": [
+          "Estate planning",
+          "Will drafting",
+          "Succession matters",
+          "Guardianship",
+          "Family disputes",
+          "Inheritance planning"
+        ]
+      },
+      {
+        "icon": "Target",
+        "title": "Capacity Building & Legal Training",
+        "description": "Tailored training programs for corporate teams, SMEs, and public institutions to strengthen legal awareness and institutional capacity.",
+        "services": [
+          "Land transactions training",
+          "Contract management workshops",
+          "Compliance training",
+          "Governance programs",
+          "Data protection training",
+          "Legal awareness sessions"
         ]
       }
     ],
@@ -317,39 +434,55 @@
   "teamPage": {
     "heroSection": {
       "title": "Our Legal Team",
-      "description": "Meet our experienced attorneys who are dedicated to providing exceptional legal representation and achieving the best outcomes for our clients."
+      "description": "Meet our experienced legal professionals who combine deep expertise in Rwandan law with practical solutions for complex legal challenges."
     },
     "teamMembers": [
       {
-        "name": "Sarah Johnson",
-        "position": "Managing Partner",
-        "specialization": "Corporate Law & Business Litigation",
+        "name": "Munyangaju Damascene",
+        "position": "Senior Managing Partner & Founder",
+        "specialization": "Land Transactions & Property Law",
         "experience": "15+ Years Experience",
-        "education": "Harvard Law School, JD",
-        "email": "sarah.johnson@landlab-attorneys.com",
-        "phone": "(+250) 788-306-701",
-        "image": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-        "bio": "Sarah leads our corporate law division with extensive experience in mergers, acquisitions, and complex business litigation. She has successfully represented Fortune 500 companies and emerging startups alike.",
+        "education": "Law Degree, Former Registrar of Land Titles - Rwanda",
+        "email": "damascene@landlab-attorneys.com",
+        "phone": "(+250) 788-306-700",
+        "image": "https://images.pexels.com/photos/5668859/pexels-photo-5668859.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+        "bio": "Founder and Senior Managing Partner with extensive experience as former Registrar of Land Titles in Rwanda. Damascene is a distinguished advocate specializing in land transactions, property law, and complex legal matters with unparalleled expertise in Rwanda's land law framework.",
         "achievements": [
-          "Super Lawyers Rising Star 2020-2023",
-          "Best Lawyers in America - Corporate Law",
-          "Successfully closed $500M+ in transactions"
+          "Former Registrar of Land Titles - Rwanda",
+          "Expert in Land Transactions and Property Law",
+          "Founded LandLab Attorneys with vision for practical legal solutions"
         ]
       },
       {
-        "name": "Michael Chen",
-        "position": "Senior Partner",
-        "specialization": "Criminal Defense & Personal Injury",
-        "experience": "20+ Years Experience",
-        "education": "Stanford Law School, JD",
-        "email": "michael.chen@landlab-attorneys.com",
+        "name": "Wibabara Joy",
+        "position": "Managing Partner",
+        "specialization": "Corporate Law & Commercial Transactions",
+        "experience": "10+ Years Experience",
+        "education": "Law Degree, Rwanda",
+        "email": "joy@landlab-attorneys.com",
+        "phone": "(+250) 788-306-701",
+        "image": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+        "bio": "Managing Partner with extensive expertise in corporate law, commercial transactions, and regulatory compliance. Joy ensures comprehensive legal support for our clients across all business and commercial matters.",
+        "achievements": [
+          "Expert in Corporate Law and Compliance",
+          "Specializes in Commercial Transactions",
+          "Key partner in firm's strategic development"
+        ]
+      },
+      {
+        "name": "Benjamin Wamono",
+        "position": "Senior Legal & Corporate Compliance Consultant",
+        "specialization": "Regulatory Compliance & Data Protection",
+        "experience": "10+ Years Experience",
+        "education": "LLB Kenya, DLP Rwanda, Data Protection Certifications",
+        "email": "benjamin@landlab-attorneys.com",
         "phone": "(+250) 788-306-702",
         "image": "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-        "bio": "Michael is renowned for his aggressive defense strategies and has achieved numerous acquittals in high-profile criminal cases. His personal injury practice has recovered millions for injured clients.",
+        "bio": "Senior Legal and Corporate Compliance Consultant with deep expertise in Rwandan and Kenyan legal frameworks. Benjamin combines technical precision with strategic insight, offering clients practical solutions that balance compliance, governance, and business efficiency.",
         "achievements": [
-          "Trial Lawyer of the Year 2022",
-          "95% success rate in criminal defense",
-          "$50M+ recovered for injury clients"
+          "Regional expert in Data Protection and Privacy Governance",
+          "Led institutional compliance programs across East Africa",
+          "Active role in legislative and policy review processes"
         ]
       },
       {
@@ -369,51 +502,35 @@
         ]
       },
       {
-        "name": "David Thompson",
-        "position": "Senior Associate",
-        "specialization": "Real Estate & Construction Law",
-        "experience": "10+ Years Experience",
-        "education": "Columbia Law School, JD",
-        "email": "david.thompson@landlab-attorneys.com",
+        "name": "User 1",
+        "position": "Associate",
+        "specialization": "General Legal Practice",
+        "experience": "5+ Years Experience",
+        "education": "Law Degree, Rwanda",
+        "email": "user1@landlab-attorneys.com",
+        "phone": "(+250) 788-306-703",
+        "image": "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+        "bio": "Associate attorney providing comprehensive legal support across various practice areas. Dedicated to delivering quality legal services and maintaining the firm's high standards of client care.",
+        "achievements": [
+          "Comprehensive legal practice experience",
+          "Client-focused service delivery",
+          "Committed to legal excellence"
+        ]
+      },
+      {
+        "name": "User 2",
+        "position": "Associate",
+        "specialization": "General Legal Practice",
+        "experience": "4+ Years Experience",
+        "education": "Law Degree, Rwanda",
+        "email": "user2@landlab-attorneys.com",
         "phone": "(+250) 788-306-704",
         "image": "https://images.pexels.com/photos/5668856/pexels-photo-5668856.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-        "bio": "David specializes in complex real estate transactions and construction disputes. His technical background in engineering provides unique insights into construction-related legal matters.",
+        "bio": "Associate attorney with strong foundation in legal practice and commitment to client service. Contributes to the firm's mission of providing practical and effective legal solutions.",
         "achievements": [
-          "Real Estate Law Excellence Award",
-          "Licensed Professional Engineer",
-          "Handled $1B+ in real estate transactions"
-        ]
-      },
-      {
-        "name": "Lisa Park",
-        "position": "Associate",
-        "specialization": "Employment Law & Civil Rights",
-        "experience": "8+ Years Experience",
-        "education": "NYU School of Law, JD",
-        "email": "lisa.park@landlab-attorneys.com",
-        "phone": "(+250) 788-306-705",
-        "image": "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-        "bio": "Lisa is passionate about protecting workers' rights and fighting discrimination. She has successfully represented employees in complex workplace disputes and civil rights violations.",
-        "achievements": [
-          "Civil Rights Advocate Award 2023",
-          "Employment Law Rising Star",
-          "Pro bono service recognition"
-        ]
-      },
-      {
-        "name": "Robert Kim",
-        "position": "Associate",
-        "specialization": "Intellectual Property & Technology Law",
-        "experience": "6+ Years Experience",
-        "education": "MIT, BS Engineering; Georgetown Law, JD",
-        "email": "robert.kim@landlab-attorneys.com",
-        "phone": "(+250) 788-306-706",
-        "image": "https://images.pexels.com/photos/5668859/pexels-photo-5668859.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
-        "bio": "Robert combines his engineering background with legal expertise to handle complex IP matters. He helps tech companies protect their innovations and navigate regulatory challenges.",
-        "achievements": [
-          "IP Law Innovation Award",
-          "Patent prosecution specialist",
-          "Technology law thought leader"
+          "Strong legal foundation and practice",
+          "Dedicated to client satisfaction",
+          "Supports firm's comprehensive service delivery"
         ]
       }
     ],
@@ -426,26 +543,26 @@
   "contactPage": {
     "heroSection": {
       "title": "Contact Us",
-      "description": "Ready to discuss your legal needs? Get in touch with our experienced team for a consultation and personalized legal guidance."
+      "description": "Ready to discuss your legal needs? Get in touch with our experienced team for practical legal solutions tailored to your specific requirements."
     },
     "contactInfoCards": [
       {
         "icon": "Phone",
         "title": "Phone",
         "details": "(+250) 788-306-700",
-        "subDetails": "Available 24/7 for urgent matters"
+        "subDetails": "Available for consultations and urgent matters"
       },
       {
         "icon": "Mail",
         "title": "Email",
         "details": "info@landlab-attorneys.com",
-        "subDetails": "We respond within 2 hours"
+        "subDetails": "We respond promptly to all inquiries"
       },
       {
         "icon": "MapPin",
         "title": "Office Location",
-        "details": "123 Legal District, Kigali",
-        "subDetails": "Rwanda, East Africa"
+        "details": "Kigali, Rwanda",
+        "subDetails": "East Africa"
       },
       {
         "icon": "Clock",
@@ -456,20 +573,25 @@
     ],
     "formSection": {
       "title": "Send Us a Message",
-      "description": "Fill out the form below and we'll get back to you as soon as possible. For urgent matters, please call us directly.",
+      "description": "Fill out the form below and we'll get back to you as soon as possible. For urgent legal matters, please call us directly.",
       "successMessageTitle": "Message Sent Successfully!",
-      "successMessageContent": "Thank you for contacting us. We'll respond within 2 hours during business hours.",
+      "successMessageContent": "Thank you for contacting us. We'll respond promptly during business hours.",
       "errorMessageTitle": "Unable to Send Message",
       "errorMessageContent": "Failed to send your message. Please check your internet connection and try again, or contact us directly at (+250) 788-306-700.",
       "submitButtonText": "Send Message",
       "practiceAreas": [
-        "Business Law",
-        "Family Law",
-        "Criminal Defense",
-        "Real Estate Law",
-        "Estate Planning",
-        "Personal Injury",
-        "Employment Law",
+        "Land Transactions & Property Law",
+        "Corporate & Commercial Law",
+        "Contract Management",
+        "Regulatory Compliance",
+        "Data Protection & Privacy",
+        "Litigation & Court Representation",
+        "Notary Services",
+        "Company Secretarial Services",
+        "Employment & Labour Law",
+        "Intellectual Property",
+        "Family Law & Succession",
+        "Legal Training",
         "Other"
       ],
       "messagePlaceholder": "Please describe your legal matter in detail..."
@@ -484,7 +606,7 @@
     }
   },
   "footer": {
-    "companyDescription": "Elevate your legal services with LandLab Attorneys, a meticulously designed legal firm dedicated to providing exceptional legal representation for all your legal needs.",
+    "companyDescription": "LandLab Attorneys provides specialized legal, corporate, and regulatory services designed to help clients protect their interests and achieve their goals. Founded by a former Registrar of Land Titles, we combine deep expertise with practical solutions.",
     "copyright": "2025 LandLab Attorneys - All rights reserved.",
     "builtBy": "Built by gisachrismunyangaju@gmail.com"
   },
