@@ -17,7 +17,7 @@ This document outlines all the SEO optimizations implemented on the LandLab Atto
 
 ### Title Tag
 ```html
-<title>LandLab Attorneys - Expert Legal Services in Rwanda | Professional Law Firm</title>
+<title>LandLab Attorneys - Land Law & Corporate Legal Services Rwanda | Expert Legal Solutions</title>
 ```
 - **Purpose**: Primary ranking factor for search engines
 - **Best Practice**: Keep under 60 characters, include primary keywords
@@ -25,7 +25,7 @@ This document outlines all the SEO optimizations implemented on the LandLab Atto
 
 ### Meta Description
 ```html
-<meta name="description" content="LandLab Attorneys provides expert legal representation in Rwanda with over 25 years of experience. Specializing in business law, family law, criminal defense, real estate law, and more. Contact us for a free consultation." />
+<meta name="description" content="LandLab Attorneys: Rwanda's premier law firm specializing in land transactions, corporate law, and regulatory compliance. Founded by former Land Titles Registrar. Expert legal services with exceptional customer care. Contact us today." />
 ```
 - **Purpose**: Appears in search results, affects click-through rates
 - **Best Practice**: 150-160 characters, compelling and descriptive
@@ -33,7 +33,7 @@ This document outlines all the SEO optimizations implemented on the LandLab Atto
 
 ### Keywords Meta Tag
 ```html
-<meta name="keywords" content="law firm Rwanda, legal services Kigali, business law, family law, criminal defense, real estate law, attorneys Rwanda, legal consultation" />
+<meta name="keywords" content="land law Rwanda, land transactions Kigali, corporate law Rwanda, regulatory compliance, data protection Rwanda, contract management, property law Rwanda, business registration, legal services Kigali, law firm Rwanda, land titles, notary services Rwanda, company secretarial services, employment law Rwanda, legal consultation Rwanda" />
 ```
 - **Purpose**: Less important for modern SEO but still used by some search engines
 - **Best Practice**: Include 5-10 relevant keywords
