@@ -461,7 +461,7 @@
         "education": "Law Degree, Rwanda",
         "email": "joy@landlab-attorneys.com",
         "phone": "(+250) 788-306-701",
-        "image": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+        "image": "/team/joy_profile.png",
         "bio": "Managing Partner with extensive expertise in corporate law, commercial transactions, and regulatory compliance. Joy ensures comprehensive legal support for our clients across all business and commercial matters.",
         "achievements": [
           "Expert in Corporate Law and Compliance",
@@ -477,7 +477,7 @@
         "education": "LLB Kenya, DLP Rwanda, Data Protection Certifications",
         "email": "benjamin@landlab-attorneys.com",
         "phone": "(+250) 788-306-702",
-        "image": "https://images.pexels.com/photos/5668858/pexels-photo-5668858.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+        "image": "/team/Benjamin_profile.png",
         "bio": "Senior Legal and Corporate Compliance Consultant with deep expertise in Rwandan and Kenyan legal frameworks. Benjamin combines technical precision with strategic insight, offering clients practical solutions that balance compliance, governance, and business efficiency.",
         "achievements": [
           "Regional expert in Data Protection and Privacy Governance",
@@ -502,14 +502,14 @@
         ]
       },
       {
-        "name": "User 1",
+        "name": "Uwineza Agape",
         "position": "Associate",
         "specialization": "General Legal Practice",
         "experience": "5+ Years Experience",
         "education": "Law Degree, Rwanda",
-        "email": "user1@landlab-attorneys.com",
+        "email": "agape@landlab-attorneys.com",
         "phone": "(+250) 788-306-703",
-        "image": "https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+        "image": "/team/agape_profile.png",
         "bio": "Associate attorney providing comprehensive legal support across various practice areas. Dedicated to delivering quality legal services and maintaining the firm's high standards of client care.",
         "achievements": [
           "Comprehensive legal practice experience",
@@ -518,14 +518,14 @@
         ]
       },
       {
-        "name": "User 2",
+        "name": "Ntabwoba Martin",
         "position": "Associate",
         "specialization": "General Legal Practice",
         "experience": "4+ Years Experience",
         "education": "Law Degree, Rwanda",
-        "email": "user2@landlab-attorneys.com",
+        "email": "martin@landlab-attorneys.com",
         "phone": "(+250) 788-306-704",
-        "image": "https://images.pexels.com/photos/5668856/pexels-photo-5668856.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+        "image": "/team/martin_profile.png",
         "bio": "Associate attorney with strong foundation in legal practice and commitment to client service. Contributes to the firm's mission of providing practical and effective legal solutions.",
         "achievements": [
           "Strong legal foundation and practice",
