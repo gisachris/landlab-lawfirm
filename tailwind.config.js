@@ -89,10 +89,10 @@ const config = {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
-        'hero-image-1': "url('https://images.pexels.com/photos/5668882/pexels-photo-5668882.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop')",
-        'hero-image-2': "url('https://images.pexels.com/photos/5668848/pexels-photo-5668848.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop')",
-        'hero-image-3': "url('https://images.pexels.com/photos/5668860/pexels-photo-5668860.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1080&fit=crop')",
-        'hero-image-4': "url('/hero_img_4.webp')",
+        'hero-image-1': "url('/hero/bg-hero-image-1.png')",
+        'hero-image-2': "url('/hero/bg-hero-image-2.webp')",
+        'hero-image-3': "url('/hero/bg-hero-image-3.webp')",
+        'hero-image-4': "url('/hero/bg-hero-image-4.png')",
       },
       borderRadius: {
         lg: 'var(--radius)',

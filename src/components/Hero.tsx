@@ -22,7 +22,7 @@ const Hero = () => {
   return (
     <section id="home" className="relative min-h-screen flex items-center">
       {/* Background Image with Overlay */}
-      <div className={`absolute inset-0 ${carouselImages[currentIndex]} bg-cover bg-center bg-no-repeat transition-all duration-1000 ease-in-out`}>
+      <div className={`absolute inset-0 ${carouselImages[currentIndex]} bg-cover bg-top bg-no-repeat transition-all duration-1000 ease-in-out`}>
         <div className="absolute inset-0 bg-black/75"></div>
       </div>
 

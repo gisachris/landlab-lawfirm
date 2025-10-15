@@ -73,20 +73,20 @@
         {
           "name": "Munyangaju Damascene",
           "position": "Senior Managing Partner & Founder",
-          "image": "https://images.pexels.com/photos/5668859/pexels-photo-5668859.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+          "image": "/team/counsel_profile.png",
           "bio": "Founder and Senior Managing Partner with extensive experience as former Registrar of Land Titles in Rwanda. Specializes in land transactions, property law, and complex legal matters."
         },
         {
           "name": "Wibabara Joy",
           "position": "Managing Partner",
-          "image": "https://images.pexels.com/photos/5668473/pexels-photo-5668473.jpeg?auto=compress&cs=tinysrgb&w=400&h=600&fit=crop",
+          "image": "/team/joy_profile.png",
           "bio": "Managing Partner with expertise in corporate law, commercial transactions, and regulatory compliance, ensuring comprehensive legal support for our clients."
         },
         {
-          "name": "Gisa Chris Munyangaju",
-          "position": "IT Manager",
-          "image": "/team/gisa_profile.png",
-          "bio": "Gisa manages all technology infrastructure and digital solutions for LandLab Attorneys. He designed and developed the firm's website and ensures seamless operation of all hardware and software systems across the organization."
+          "name": "Benjamin Wamono",
+          "position": "Senior Legal & Corporate Compliance Consultant",
+          "image": "/team/Benjamin_profile.png",
+          "bio": "Senior Legal and Corporate Compliance Consultant with deep expertise in Rwandan and Kenyan legal frameworks. Benjamin combines technical precision with strategic insight, offering clients practical solutions that balance compliance, governance, and business efficiency."
         }
       ]
     },
@@ -203,7 +203,7 @@
     },
     "founderSection": {
       "title": "Meet Our Founder",
-      "image": "https://images.pexels.com/photos/5668859/pexels-photo-5668859.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+      "image": "/team/counsel_profile.png",
       "name": "Munyangaju Damascene",
       "bio": "Munyangaju Damascene is the founder and Senior Managing Partner of LandLab Attorneys. As a distinguished advocate and former Registrar of Land Titles in Rwanda, Damascene brings unparalleled expertise in land transactions and property law. His vision was to create a law firm that combines deep legal knowledge with practical solutions, helping clients navigate Rwanda's legal landscape with confidence and achieve lasting success."
     },
@@ -445,7 +445,7 @@
         "education": "Law Degree, Former Registrar of Land Titles - Rwanda",
         "email": "damascene@landlab-attorneys.com",
         "phone": "(+250) 788-306-700",
-        "image": "https://images.pexels.com/photos/5668859/pexels-photo-5668859.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop",
+        "image": "/team/counsel_profile.png",
         "bio": "Founder and Senior Managing Partner with extensive experience as former Registrar of Land Titles in Rwanda. Damascene is a distinguished advocate specializing in land transactions, property law, and complex legal matters with unparalleled expertise in Rwanda's land law framework.",
         "achievements": [
           "Former Registrar of Land Titles - Rwanda",

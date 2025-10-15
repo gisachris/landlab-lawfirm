@@ -154,7 +154,7 @@ const ContactPage = () => {
       {/* Hero Section */}
       <section className="relative pt-32 pb-16 min-h-[400px] flex items-center">
         {/* Background Image with Overlay */}
-        <div className="absolute inset-0 bg-hero-image-1 bg-cover bg-center bg-no-repeat">
+        <div className="absolute inset-0 bg-hero-image-2 bg-cover bg-top bg-no-repeat">
           <div className="absolute inset-0 bg-black/75"></div>
         </div>
 
